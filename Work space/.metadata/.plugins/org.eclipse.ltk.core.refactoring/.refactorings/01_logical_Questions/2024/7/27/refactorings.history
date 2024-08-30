@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.suresh.logical&apos; to &apos;in.suresh.logical.arrays&apos;&#x0D;&#x0A;- Original project: &apos;01_logical_Questions&apos;&#x0D;&#x0A;- Original element: &apos;01_logical_Questions/src/in.suresh.logical&apos;&#x0D;&#x0A;- Renamed element: &apos;01_logical_Questions/src/in.suresh.logical.arrays&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;in.suresh.logical&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;in.suresh.logical" name="in.suresh.logical.arrays" qualified="false" references="true" stamp="1720256530374" textual="false" version="1.0"/>
+</session>
